@@ -1,0 +1,11 @@
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\obj\x86\Debug\MainWindow.baml
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\obj\x86\Debug\MainWindow.g.cs
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\obj\x86\Debug\App.g.cs
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer_MarkupCompile.cache
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.g.resources
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.Properties.Resources.resources
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.csproj.GenerateResource.Cache
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.exe
+c:\users\atul\documents\visual studio 2010\Projects\MusicPlayer\MusicPlayer\obj\x86\Debug\MusicPlayer.pdb
